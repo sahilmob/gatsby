@@ -102,6 +102,7 @@ const developConfig: MachineConfig<IBuildContext, any, AnyEventObject> = {
       },
     },
     // Running page and static queries and generating the SSRed HTML and page data
+    // sahil
     runningQueries: {
       on: {
         SOURCE_FILE_CHANGED: {

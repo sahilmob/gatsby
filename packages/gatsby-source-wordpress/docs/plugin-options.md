@@ -451,7 +451,7 @@ This option allows images url's that return a 404 to not fail production builds.
 
 ### production.allow401Images
 
-This option allows images url's that return a 401 to not fail production builds. 401s are sometimes returned in place of 404's for protected content to hide whether the content exists.
+This option allows images url's that return a 401 to not fail production builds.
 
 **Field type**: `Boolean`
 
